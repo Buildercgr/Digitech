@@ -1,5 +1,4 @@
-https://img.shields.io/badge/dynamic/json?url=!%5BModrinth%5D(https%3A%2F%2Fimg.shields.io%2Fmodrinth%2Fdt%2Fdigitech%3Flabel%3DModrinth%2520downloads%26style%3Dfor-the-badge)
-
+![Banner de Digitech](https://cdn.modrinth.com/data/cached_images/0ed66f884eaccd3771f105038352370e548763df.png)
 # Digitech - Minecraft's Mobile & Modular Tech
 
 Digitech is a Minecraft mod. It drops mobile phones, computers, Wi-Fi, and so much more into the game. These contraptions come packed with real, in-game functions.
